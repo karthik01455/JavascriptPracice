@@ -1,5 +1,4 @@
 const countVowels = require('./countVowels');
-
 test('testing countVowels withArrowfunction', () => {
   expect(countVowels.withArrow('aeiou')).toBe(5);
 });
