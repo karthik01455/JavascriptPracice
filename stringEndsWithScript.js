@@ -10,5 +10,5 @@ const stringEndsWithScript=
     }
 }
 console.log(stringEndsWithScript.withArrow('Script'));
-console.log(stringEndsWithScript.withoutArrow('Script'));
+console.log(stringEndsWithScript.withoutArrow('javaScript'));
 module.import=stringEndsWithScript;
