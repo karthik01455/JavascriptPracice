@@ -1,0 +1,22 @@
+{
+  "name": "javascriptpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthik01455/javascripting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthik01455/javascripting/issues"
+  },
+  "homepage": "https://github.com/karthik01455/javascripting#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
