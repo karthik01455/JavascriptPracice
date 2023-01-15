@@ -25,6 +25,4 @@ const concatTwoStringsExceptTheirFirstCharacter=
     }
     
 }
-console.log(concatTwoStringsExceptTheirFirstCharacter.withArrow(['array','math']));
-console.log(concatTwoStringsExceptTheirFirstCharacter.withoutArrow(['array','math']));
 module.exports=concatTwoStringsExceptTheirFirstCharacter;
