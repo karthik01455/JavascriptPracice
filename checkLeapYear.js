@@ -19,4 +19,6 @@ console.log(checkLeapYear.withArrow(1900));
 console.log(checkLeapYear.withArrow(1996));
 console.log(checkLeapYear.withArrow(2000));
 console.log(checkLeapYear.withArrow(2001));
-module.export=checkLeapYear;
+module.exports=checkLeapYear;
+
+
