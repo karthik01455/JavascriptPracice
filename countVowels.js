@@ -23,6 +23,5 @@ const countVowels=
             return count;
     }
 }
-console.log(countVowels.withArrow('aeiouA-'));
-console.log(countVowels.withoutArrow('aeiouA-'));
 module.exports=countVowels;
+
