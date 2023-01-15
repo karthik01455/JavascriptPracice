@@ -1,5 +1,4 @@
 const changeCapitalization = require('./changeCapitalization');
-
 test('testing changeCapitalization withArrowfunction', () => {
   expect(changeCapitalization.withArrow('MeRRy hAD a LITTle lAMp')).toBe('mErrY Had A littLE LamP');
 });
