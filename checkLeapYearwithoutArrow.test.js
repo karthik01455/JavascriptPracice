@@ -1,5 +1,4 @@
 const checkLeapYear = require('./checkLeapYear');
-
 test('testing checkLeapYear withoutArrow function', () => {
   expect(checkLeapYear.withoutArrow(2000)).toBe(true);
 });
