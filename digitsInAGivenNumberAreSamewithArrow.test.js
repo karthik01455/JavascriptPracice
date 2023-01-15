@@ -10,5 +10,5 @@ test('testing digitsInAGivenNumberAreSame withArrow function', () => {
   expect(digitsInAGivenNumberAreSame.withArrow(-222222)).toBe(true);
 });
 test('testing digitsInAGivenNumberAreSame withArrow function', () => {
-  expect(digitsInAGivenNumberAreSame.withArrow(-1110)).toBe(false);
+  expect(digitsInAGivenNumberAreSame.withArrow(-11110)).toBe(false);
 });
