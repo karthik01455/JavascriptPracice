@@ -23,6 +23,4 @@ const longestStringInArray=
         return result;
     }
 }
-console.log(longestStringInArray.withArrow(['array','ab','axc']))
-console.log(longestStringInArray.withoutArrow(['array','ab','axc']))
-module.export=longestStringInArray;
+module.exports=longestStringInArray;
