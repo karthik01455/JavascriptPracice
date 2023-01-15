@@ -25,3 +25,4 @@ const countVowels=
 }
 console.log(countVowels.withArrow('aeiouA-'));
 console.log(countVowels.withoutArrow('aeiouA-'));
+module.export=countVowels;
