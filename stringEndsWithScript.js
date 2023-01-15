@@ -9,6 +9,4 @@ const stringEndsWithScript=
         return string.length>=6 && string.endsWith('Script');
     }
 }
-console.log(stringEndsWithScript.withArrow('javaScript'));
-console.log(stringEndsWithScript.withoutArrow('javaScript'));
-module.import=stringEndsWithScript;
+module.exports=stringEndsWithScript;
