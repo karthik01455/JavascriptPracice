@@ -6,7 +6,7 @@ test('testing countVowels withArrow function', () => {
   expect(countVowels.withArrow('abcz')).toBe(1);
 });
 test('testing countVowels withArrow function', () => {
-  expect(countVowels.withArrow('hello')).toBe(2);
+  expect(countVowels.withArrow('helloo')).toBe(3);
 });
 test('testing countVowels withArrow function', () => {
   expect(countVowels.withArrow('codeacademy')).toBe(5);
